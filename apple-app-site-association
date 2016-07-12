@@ -1,11 +1,14 @@
 {
-  "applinks":{
-  "apps":[],
-  "details":[
-    {
-      "appID":"K5V948MQ3N.jp.co.dds.UniversalLinks",
-      "paths":["*"]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "K5V948MQ3N.jp.co.dds.UniversalLinks",
+        "paths": [
+                "*",
+                "/sample/*"
+        ]
+      }
     ]
   }
 }
