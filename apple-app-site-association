@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "K5V948MQ3N.jp.co.dds.UniversalLinks",
-        "paths": ["*","/apps"]
+        "paths": ["/*","/apps"]
       }
     ]
   }
